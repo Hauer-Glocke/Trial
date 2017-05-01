@@ -6,5 +6,5 @@
 
 
 this is a list
-*first point
-*second point
+* first point
+* second point
